@@ -1,0 +1,18 @@
+/* 
+Theme Name: BooksTheme
+Text Domain: BooksTheme
+Version: 1.0
+Description: New books Theme
+Author: Author
+*/
+#navigation ul{
+    width: 100%;
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+}
+#navigation li a{
+    text-decoration: none;
+    font-size: 1.2rem;
+    color: gray;
+}
